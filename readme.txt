@@ -1,1 +1,1 @@
-In this repository, you will find the legacy (and crude) releases of EasyMSP. No releases where made for version 0.7.x
+In this repository, you will find legacy (and crude) releases of EasyMSP. No releases where made for version 0.7.x
